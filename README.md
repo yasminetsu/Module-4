@@ -1,5 +1,7 @@
 # Time Code Quiz - Web APIs Challenge
-https://yasminetsu.github.io/Module-4/
+
+live demo
+
 ## Description
 A timed multiple-choice quiz on JavaScript fundamentals that stores high scores in localStorage. 
 
@@ -21,4 +23,7 @@ A timed multiple-choice quiz on JavaScript fundamentals that stores high scores 
 - WHEN the game is over
 - THEN I can save my initials and score
 
-![](assets/images/04-web-apis-homework-demo.gif)
+![screenshot](/ASSETS/images/tcq-1.png)
+![screenshot](/ASSETS/images/tcq-2.png)
+![screenshot](/ASSETS/images/tcq-3.png)
+![screenshot](/ASSETS/images/tcq-4.png)
